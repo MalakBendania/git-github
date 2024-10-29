@@ -1,2 +1,2 @@
 console.log('index.js');
-console.log('vers1');
+console.log('vers2');
